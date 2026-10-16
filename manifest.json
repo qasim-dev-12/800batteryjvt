@@ -1,0 +1,26 @@
+{
+  "name": "800 Battery JVT | 24/7 Car Battery Replacement",
+  "short_name": "800Battery",
+  "description": "Emergency mobile car battery replacement in Jumeirah Village Triangle & Dubai. 15-20 min arrival.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E11D2E",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

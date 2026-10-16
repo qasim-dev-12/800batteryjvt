@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+
+User-Agent: Googlebot
+User-Agent: Bingbot
+User-Agent: Applebot
+User-Agent: GPTBot
+User-Agent: PerplexityBot
+User-Agent: ClaudeBot
+User-Agent: Google-Extended
+User-Agent: Amazonbot
+Allow: /
+
+Sitemap: https://800batteryjvt.vercel.app/sitemap.xml
